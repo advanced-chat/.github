@@ -34,7 +34,7 @@ We are continually refining and expanding on these features. Feedback and contri
 
 ## 🤝 Contributing
 
-If you're looking to contribute to the `advanced-chat` projects, we'd be thrilled to have you onboard! Your help is always appreciated.
+If you're looking to contribute to the `advanced-chat` projects, we'd be thrilled to have you onboard! Your help is always appreciated. Please check out our [Contribution Guide](https://github.com/advanced-chat/vue-advanced-chat/blob/master/.github/CONTRIBUTING.md) for details on how to get started.
 
 ## 📞 Connect with Us
 
