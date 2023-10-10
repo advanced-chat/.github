@@ -18,7 +18,7 @@ The cornerstone repository of our organization [vue-advanced-chat](https://githu
 
 - **UI Elements**: Diverse UI elements covering message statuses like seen, new, deleted, typing, and system notifications.
 
-- **Text Formatting Tools**: Equip your chat with text formatting options such as bold, italic, strikethrough, underline, code support, and multiline capabilities.
+- **Text Formatting Tools**: Equip your chat with complete Markdown text formatting options, including bold, italic, strikethrough, underline, code support, and multiline capabilities.
 
 - **User Status Indicators**: Real-time online and offline user status updates.
 
